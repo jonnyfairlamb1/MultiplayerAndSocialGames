@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{F209F7BF-2015-4FC1-9863-DDC1731DA9DD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameServer/Database.cs">
+    <Files>
+      <File FileName="GameServer/ServerTCP.cs" Line="26" Column="1" />
+      <File FileName="GameServer/Client.cs" Line="25" Column="1" />
+      <File FileName="GameServer/Lobby.cs" Line="167" Column="1" />
+      <File FileName="GameServer/Program.cs" Line="40" Column="1" />
+      <File FileName="GameServer/ServerHandleData.cs" Line="111" Column="1" />
+      <File FileName="GameServer/Database.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GameServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
